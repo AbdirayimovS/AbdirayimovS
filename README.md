@@ -17,12 +17,16 @@
 
 - ⚡ Fun fact **I like hiking 🏔️🗺️**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
 <a href="https://kaggle.com/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
 <a href="https://instagram.com/sardor_abdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sardor_abdirayimov" height="30" width="40" /></a>
-<a href="https://medium.com/sardorabdirayimov20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sardorabdirayimov20" height="30" width="40" /></a>
+<a href="https://medium.com/@sardorabdirayimov20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sardorabdirayimov20" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
 </p>
 
