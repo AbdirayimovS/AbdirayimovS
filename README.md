@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning and Computer Vision projects**
 
-- 📝 I regularly write articles on [https://medium.com/@sardorabdirayimov](https://medium.com/@abdirayimovsardor20)
+- 📝 I regularly write articles on [https://medium.com/@sardorabdirayimov](https://medium.com/@sardorabdirayimov)
 
 - 💬 Ask me about **Data Scince, Machine Learning**
 
