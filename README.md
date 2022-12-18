@@ -19,7 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Colors Detection using masks &amp; contours in OpenCV](https://medium.com/@sardorabdirayimov/colors-detection-using-masks-contours-in-opencv-72d127f0797e?source=rss-153f1c1151ed------2)
+- [Lower and Upper  Mask Range for Color Detection | OpenCV](https://medium.com/@sardorabdirayimov/lower-and-upper-mask-range-for-color-detection-opencv-7f64a5df568b?source=rss-153f1c1151ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
