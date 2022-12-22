@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirayimovs&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
+-  My **Web Portfolio 💼**: https://meek-cupcake-2d60b9.netlify.app/
+-  
 - 🔭 I’m currently working on **Computer Vision Projects**
 
 - 🌱 I’m currently learning **Tensorflow, Deep Learning**
