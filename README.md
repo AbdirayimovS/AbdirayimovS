@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Collection with Python and Telegram API via Telethon in inline bots](https://medium.com/@sardorabdirayimov/image-collection-with-python-and-telegram-api-via-telethon-in-inline-bots-cf64c5ab092b?source=rss-153f1c1151ed------2)
 - [Face Recognition in Python| FaceNet, MTCNN and SVM](https://medium.com/@sardorabdirayimov/face-recognition-in-python-facenet-mtcnn-and-svm-80d0001a0469?source=rss-153f1c1151ed------2)
 - [Face Mask Detection | Image Classification on the custom dataset with TensorFlow, OpenCV and…](https://medium.com/@sardorabdirayimov/face-mask-detection-image-classification-on-the-custom-dataset-with-tensorflow-opencv-and-f186b9a74c62?source=rss-153f1c1151ed------2)
 - [Colors Detection using masks &amp; contours in OpenCV](https://medium.com/@sardorabdirayimov/colors-detection-using-masks-contours-in-opencv-72d127f0797e?source=rss-153f1c1151ed------2)
-- [Lower and Upper  Mask Range for Color Detection | OpenCV](https://medium.com/@sardorabdirayimov/lower-and-upper-mask-range-for-color-detection-opencv-7f64a5df568b?source=rss-153f1c1151ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
