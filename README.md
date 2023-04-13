@@ -4,16 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirayimovs&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
 -  My **Web Portfolio 💼**: https://sardorabdirayimov.netlify.app/
--  
-- 🔭 I’m currently working on **Computer Vision Projects**
-
-- 🌱 I’m currently learning **Tensorflow, Deep Learning**
-
-- 👯 I’m looking to collaborate on **Deep Learning and Computer Vision projects**
 
 - 📝 I regularly write articles on [https://medium.com/@sardorabdirayimov](https://medium.com/@sardorabdirayimov)
-
-- 💬 Ask me about **Data Scince, Machine Learning**
 
 - 📫 How to reach me **abdirayimovsardor20@gmail.com**
 
