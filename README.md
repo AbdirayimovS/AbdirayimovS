@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [“Awesome Lists” — the Ocean of great resources for everyone](https://medium.com/@sardorabdirayimov/awesome-lists-the-ocean-of-great-resources-for-everyone-864f85c34af1?source=rss-153f1c1151ed------2)
 - [Backpropagation | Cheaper algorithm than you think](https://medium.com/@sardorabdirayimov/backpropagation-cheaper-algorithm-than-you-think-4353610550b3?source=rss-153f1c1151ed------2)
 - [Exploring IPython: Beyond Python Interactivity | Part 1](https://medium.com/@sardorabdirayimov/exproling-ipython-beyond-python-interactivity-part-1-4ac662667eaf?source=rss-153f1c1151ed------2)
 - [Image Collection with Python and Telegram API via Telethon in inline bots](https://medium.com/@sardorabdirayimov/image-collection-with-python-and-telegram-api-via-telethon-in-inline-bots-cf64c5ab092b?source=rss-153f1c1151ed------2)
-- [Face Recognition in Python| FaceNet, MTCNN and SVM](https://medium.com/@sardorabdirayimov/face-recognition-in-python-facenet-mtcnn-and-svm-80d0001a0469?source=rss-153f1c1151ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
