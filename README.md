@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[My Takeaways from Papers] Fooling DNNs](https://medium.com/@sardorabdirayimov/my-takeaways-from-papers-fooling-dnns-e9d1706524e3?source=rss-153f1c1151ed------2)
 - [[Paper Review] Towards ML Engineering — History of TFX](https://medium.com/@sardorabdirayimov/paper-review-towards-ml-engineering-history-of-tfx-2d7102783b87?source=rss-153f1c1151ed------2)
 - [“Awesome Lists” — the Ocean of great resources for everyone](https://medium.com/@sardorabdirayimov/awesome-lists-the-ocean-of-great-resources-for-everyone-864f85c34af1?source=rss-153f1c1151ed------2)
 - [Backpropagation | Cheaper algorithm than you think](https://medium.com/@sardorabdirayimov/backpropagation-cheaper-algorithm-than-you-think-4353610550b3?source=rss-153f1c1151ed------2)
-- [Exploring IPython: Beyond Python Interactivity | Part 1](https://medium.com/@sardorabdirayimov/exproling-ipython-beyond-python-interactivity-part-1-4ac662667eaf?source=rss-153f1c1151ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
