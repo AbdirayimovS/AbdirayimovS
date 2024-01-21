@@ -3,36 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirayimovs&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
--  My **Web Portfolio 💼**: https://sardorabdirayimov.netlify.app/
-
-- 📝 I regularly write articles on [https://medium.com/@sardorabdirayimov](https://medium.com/@sardorabdirayimov)
-
-- 📫 How to reach me **abdirayimovsardor20@gmail.com**
-
-- ⚡ Fun fact **I like hiking 🏔️🗺️**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [[My Takeaways from Papers] Fooling DNNs](https://medium.com/@sardorabdirayimov/my-takeaways-from-papers-fooling-dnns-e9d1706524e3?source=rss-153f1c1151ed------2)
-- [[Paper Review] Towards ML Engineering — History of TFX](https://medium.com/@sardorabdirayimov/paper-review-towards-ml-engineering-history-of-tfx-2d7102783b87?source=rss-153f1c1151ed------2)
-- [“Awesome Lists” — the Ocean of great resources for everyone](https://medium.com/@sardorabdirayimov/awesome-lists-the-ocean-of-great-resources-for-everyone-864f85c34af1?source=rss-153f1c1151ed------2)
-- [Backpropagation | Cheaper algorithm than you think](https://medium.com/@sardorabdirayimov/backpropagation-cheaper-algorithm-than-you-think-4353610550b3?source=rss-153f1c1151ed------2)
-<!-- BLOG-POST-LIST:END -->
-
+-  My Web Portfolio 💼: https://sardorabdirayimov.notion.site/
+- 📫 My email: abdirayimovsardor20[at]gmail[dot]com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
 <a href="https://kaggle.com/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
-<a href="https://instagram.com/sardor_abdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sardor_abdirayimov" height="30" width="40" /></a>
-<a href="https://medium.com/@sardorabdirayimov20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sardorabdirayimov20" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdirayimovs&show_icons=true&locale=en&layout=compact" alt="abdirayimovs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirayimovs&show_icons=true&locale=en" alt="abdirayimovs" /></p>
 
