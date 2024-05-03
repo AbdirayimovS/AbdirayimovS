@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirayimovs&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
--  My Web Portfolio 💼: https://sardorabdirayimov.notion.site/
+
 - 📫 My email: abdirayimovsardor20[at]gmail[dot]com
 
 <h3 align="left">Connect with me:</h3>
