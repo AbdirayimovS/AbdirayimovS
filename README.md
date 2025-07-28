@@ -1,6 +1,6 @@
 Assalaamu Alaikum,
 
-I am Machine Learning Engineer with over 3+ years of experience. I like reading books and outdoor activities.
+I am ML engineer. I like reading books and outdoor activities.
 
 <!--Call for action!-->
 
